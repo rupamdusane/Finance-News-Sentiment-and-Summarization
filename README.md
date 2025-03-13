@@ -32,8 +32,7 @@ This project automates the collection, summarization, and sentiment analysis of 
 **Clone the repository**
    ```bash
    git clone https://github.com/rupamdusane/Finance-News-Sentiment-and-Summarization.git
-   cd Finance-News-Sentiment-and-Summarization[financial_news_summary.csv](https://github.com/user-attachments/files/19233903/financial_news_summary.csv)
-
+   cd Finance-News-Sentiment-and-Summarization
    ```
 
 ## How It Works
