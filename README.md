@@ -1,4 +1,4 @@
-# Financial News Summarization & Sentiment Analysis
+# Financial News Summarization & Sentiment Analysis 
 
 ## Overview
 This project automates the collection, summarization, and sentiment analysis of financial news articles from **Yahoo Finance RSS feeds**. It extracts key insights using **NLP models**, providing a concise view of market sentiment across various assets, including **stocks, cryptocurrencies, indices, and forex**.
