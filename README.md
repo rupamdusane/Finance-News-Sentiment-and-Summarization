@@ -1,1 +1,1 @@
-# Finance-News-Sentiment-and-Summarization
+# Financial News Summarization & Sentiment Analysis
