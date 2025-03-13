@@ -29,20 +29,11 @@ This project automates the collection, summarization, and sentiment analysis of 
   - `torch` (PyTorch backend for NLP)
 
 ## Installation
-1. **Clone the repository**
+**Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Financial-News-Sentiment.git
-   cd Financial-News-Sentiment
-   ```
+   git clone https://github.com/rupamdusane/Finance-News-Sentiment-and-Summarization.git
+   cd Finance-News-Sentiment-and-Summarization[financial_news_summary.csv](https://github.com/user-attachments/files/19233903/financial_news_summary.csv)
 
-2. **Install dependencies**
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. **Run the script**
-   ```
-   python main.py
    ```
 
 ## How It Works
